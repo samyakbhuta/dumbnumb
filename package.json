@@ -1,0 +1,31 @@
+{
+  "name": "dumbnumb",
+  "version": "0.0.1",
+  "description": "Numbers with their descriptions (values, properties, attributes, as attributes, meaning, mentions, descriptions)",
+  "main": "forty2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/samyakbhuta/dumbnumb.git"
+  },
+  "keywords": [
+    "number",
+    "properties",
+    "mentions",
+    "descriptions",
+    "encyclopedia",
+    "ramanujan",
+    "1729",
+    "42"
+  ],
+  "author": "Samyak Bhuta",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/samyakbhuta/dumbnumb/issues"
+  },
+  "dependencies": {
+    "fortune":"~0.1"
+  }
+}
